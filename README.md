@@ -20,4 +20,6 @@ Usage (Mac OS)
 References
 ----------
 http://www.sublimetext.com/forum/viewtopic.php?f=4&t=11670
-- Thanks to the following link for the code. Made minor adjustments to create unique macro that would not override existing macro of double-clicking to drag select a word.
+- Thanks to the following link for providing original code. Made minor adjustments to create unique macro that would not override existing macro of double-clicking to drag select a word.
+http://stackoverflow.com/questions/9694823/ctrl-click-binding-in-sublime-text-2
+- Provided insight as to add another selection
