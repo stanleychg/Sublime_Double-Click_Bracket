@@ -3,8 +3,8 @@ Sublime_DoubleClick_Bracket
 
 Highlight contents within brackets with one key and two clicks.
 
--Tested for Mac OS
--Tested for Sublime Text 2
+- Tested for Mac OS
+- Tested for Sublime Text 2
 
 Installation (Mac Os)
 ---------------------
