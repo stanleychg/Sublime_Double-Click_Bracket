@@ -20,4 +20,4 @@ Usage (Mac OS)
 References
 ----------
 http://www.sublimetext.com/forum/viewtopic.php?f=4&t=11670
-- Thanks to the following link for the code. Made minor adjustments to create unique macro that would not override existing macro of double-clicking to expand selection to word.
+- Thanks to the following link for the code. Made minor adjustments to create unique macro that would not override existing macro of double-clicking to drag select a word.
