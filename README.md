@@ -1,10 +1,12 @@
 Sublime_DoubleClick_Bracket
 ===========================
 
-Sublime code to expand selection to brackets
-(Mac OS only; Untested for PC; Untested for any version other than Sublime Text 2)
+Easily highlight contents within brackets with one key and two clicks.
 
-Installation (Mac OS)
+-Tested for Mac OS
+-Tested for Sublime Text 2
+
+Installation (Mac Os)
 ---------------------
 
 Copy "Default (OSX).sublime-mousemap" file into "~/Library/Application Support/Sublime Text 2/Package/User"
