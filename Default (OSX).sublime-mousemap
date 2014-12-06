@@ -1,0 +1,9 @@
+//Mousemap command only tested on Mac OS
+[
+    {
+        "button": "button1", "count": 2, "modifiers": ["option"],
+		"command": "expand_selection", 
+		"args": {"to": "brackets"} 
+
+    }
+]

@@ -1,0 +1,6 @@
+# Ignore everything except few files
+*
+
+# Do not ignore the following files
+!.gitignore
+!Default\ (OSX).sublime-mousemap
