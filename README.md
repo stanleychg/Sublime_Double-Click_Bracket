@@ -1,7 +1,7 @@
-Sublime_DoubleClick_Bracket
-===========================
+Sublime Double-Click Bracket Macro
+==================================
 
-Highlight contents within brackets with one key and two clicks.
+By default, Sublime Text 2 does not extend selection to brackets when double-clicking a bracket or parenthesis from a set. Sublime provides a shortcut to do so with Cmd+Shift+M, which I find tedious. This file allows you to rapidly highlight contents within brackets with one key and two clicks.
 
 - Tested for Mac OS
 - Tested for Sublime Text 2
