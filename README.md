@@ -6,7 +6,7 @@ By default, Sublime Text 2 does not extend selection to brackets when double-cli
 - Tested for Mac OS
 - Tested for Sublime Text 2
 
-Installation (Mac Os)
+Installation (Mac OS)
 ---------------------
 
 Copy "Default (OSX).sublime-mousemap" file into "~/Library/Application Support/Sublime Text 2/Package/User"
